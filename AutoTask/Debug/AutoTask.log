@@ -1,0 +1,6 @@
+﻿  handling.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Ri03\source\repos\AutoTask\AutoTask\handling.cpp(42,42): warning C4244: '=': conversion from 'WORD' to 'UINT8', possible loss of data
+C:\Users\Ri03\source\repos\AutoTask\AutoTask\handling.cpp(43,47): error C2248: 'MainDialog::changeText': cannot access protected member declared in class 'MainDialog'
+C:\Users\Ri03\source\repos\AutoTask\AutoTask\init.h(15): message : see declaration of 'MainDialog::changeText'
+C:\Users\Ri03\source\repos\AutoTask\AutoTask\init.h(7): message : see declaration of 'MainDialog'
